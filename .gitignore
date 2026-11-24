@@ -8,3 +8,10 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# Keys, secrets, logs
+*.pem
+*.key
+secrets/
+credentials/
+logs/
